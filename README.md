@@ -13,6 +13,8 @@
 #### 使用数据集来源及参考文献：
 
 https://www.nature.com/articles/s41597-023-02787-8
+
+
 https://www.nature.com/articles/s41597-022-01647-1
 
 
@@ -51,7 +53,7 @@ ps -p [编号]
 
 
 #### 训练结果：
-
+```
 avg acc for subj1:  0.825
 avg acc for subj2:  0.825
 avg acc for subj3:  0.8
@@ -103,4 +105,5 @@ avg acc for subj48:  0.825
 avg acc for subj49:  0.925
 avg acc for subj50:  0.875
 final acc for all subjs:  0.8464999999999999
+```
 
